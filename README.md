@@ -35,14 +35,18 @@ A two switch is installed near the first step of the stairs. The other two way s
 ## CIRCUIT DIAGRAM --STAIRCASE WIRING
 
 # XOR:
+<img width="900" height="568" alt="image" src="https://github.com/user-attachments/assets/576d15df-46de-4d1c-a50a-c72085e12d13" />
 
 # XNOR:
+<img width="859" height="527" alt="image" src="https://github.com/user-attachments/assets/55d5e5b4-f226-47ec-b6e6-4769ea9a9756" />
 
 ## TABULATION:
 
 # XOR:
+<img width="636" height="323" alt="image" src="https://github.com/user-attachments/assets/fbb1cbcb-6d3f-4b15-91d9-a2cbb09c7c60" />
 
 # XNOR:
+<img width="621" height="295" alt="image" src="https://github.com/user-attachments/assets/2ac9affc-7fef-4340-8ae3-86d9db098835" />
 
 ## OUTPUT:
 
