@@ -1,4 +1,5 @@
 ## EXP NO: 3 STAIR CASE WIRING
+
 # DEVELOPED BY: Vinolia Alaina .R
 # REGISTER NUMBER: 212224240184
 
@@ -32,15 +33,19 @@ To wire for a stair case arrangement using a two-way switch.
 A two switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends. The light point is provided between first and last stair at an adequate location and height if the lower switch switches on the light. The switch at the top or vice versa can switch it off. Two number of two way switches are used for the purpose. The supply is given to the switch at the short circuited terminals. The connection to the light point is taken from the similar short circuited terminal of the second switch; other two independent terminals of each circuit are connected through cables.
 
 ## CIRCUIT DIAGRAM --STAIRCASE WIRING
+
 # XOR:
 
 # XNOR:
+
 ## TABULATION:
+
 # XOR:
 
 # XNOR:
 
 ## OUTPUT:
+
 # XOR:
 <img width="662" height="537" alt="Screenshot 2025-09-27 143021" src="https://github.com/user-attachments/assets/192403b0-7129-4ba1-93fe-f6121ef92564" />
 
